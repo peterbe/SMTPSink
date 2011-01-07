@@ -1,0 +1,11 @@
+peter@fry-it.com, Jan 2011
+
+This is useful for testing the sending of emails by running an SMTP
+service in localhost:25
+
+To run:
+
+        ./run_sink.sh
+	
+Nothing happens until you start sending emails.
+
